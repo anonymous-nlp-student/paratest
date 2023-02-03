@@ -1,10 +1,11 @@
 *.egg-info/
 __pycache__/
 
+.idea/
 utils/
 tests/
 
 labeling/
 
-checkpoints/
-!checkpoints/README.md
+checkpoints/0*
+checkpoints/1*
