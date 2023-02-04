@@ -1,12 +1,13 @@
 # What is ParaTest?
 
-ParaTest is a system that generates diverse test cases for NLP models. It outperforms the previous systems in generating more ***diverse*** (left) and ***effective*** (right) test cases.
+ParaTest is a system that generates diverse test cases for NLP models. It outperforms the previous systems in generating more ***diverse*** (top) and ***effective*** (bottom) test cases.
 
 - ***Diverse***: The ParaTest systems generates more diverse test cases than previous systems.
 - ***Effective***: The ParaTest system better reveal models' failures than the standard validation sets and previous systems; these models are the *most downloaded* models for respective tasks.
 
-| ![](resources/example.png) | ![](resources/aggregate-error.png) |
-| -------------------------- | ---------------------------------- |
+![](resources/example.png)
+
+![](resources/aggregate-error.png) 
 
 # Why Testing NLP Models?
 
